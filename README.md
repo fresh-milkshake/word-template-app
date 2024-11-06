@@ -15,9 +15,9 @@
 Исполняемый файл создается с помощью batch скрипта `deploy.cmd` и пакета `pyinstaller`.
 
 ```bash
- git clone https://github.com/fresh-milkshake/template-generator.git
- cd template-generator
- deploy.cmd
+git clone https://github.com/fresh-milkshake/template-generator.git
+cd template-generator
+deploy.cmd
 ```
 
 ## Использование
